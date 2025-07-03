@@ -1,0 +1,6 @@
+ID;Application;Version;ParamID;id Machine;Date de lancement;Scenario;Num dossier;Num Iteration;Etape;Temps;TopTemps;EndTime;AGarder?
+271120241710471Virement 1 mouvement;ISACOMPTA-CLIENT;25.01.--;N/A;iqs-client;27/11/2024 17:08:55;Consultation Grand Livre et Virements;30409;1;Virement 1 mouvement;142;1732723847534;1732723847676;1
+271120241711081Virement 100 Mouvements;ISACOMPTA-CLIENT;25.01.--;N/A;iqs-client;27/11/2024 17:08:55;Consultation Grand Livre et Virements;30409;1;Virement 100 Mouvements;2221;1732723866258;1732723868479;1
+271120241712251Virement 900 Mouvements;ISACOMPTA-CLIENT;25.01.--;N/A;iqs-client;27/11/2024 17:08:55;Consultation Grand Livre et Virements;30409;1;Virement 900 Mouvements;20608;1732723924955;1732723945563;1
+271120241714321Ouverture compte 2011;ISACOMPTA-CLIENT;25.01.--;N/A;iqs-client;27/11/2024 17:08:55;Consultation Grand Livre et Virements;30409;1;Ouverture compte 2011;2821;1732724069720;1732724072541;1
+271120241714391Ouverture compte 511;ISACOMPTA-CLIENT;25.01.--;N/A;iqs-client;27/11/2024 17:08:55;Consultation Grand Livre et Virements;30409;1;Ouverture compte 511;3175;1732724076653;1732724079828;1

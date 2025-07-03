@@ -1,0 +1,11 @@
+ID;Application;Version;ParamID;id Machine;Date de lancement;Scenario;Num dossier;Num Iteration;Etape;Temps;TopTemps;EndTime;AGarder?
+271120241926071Virement 1 mouvement;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;1;Virement 1 mouvement;142;1732731967472;1732731967614;1
+271120241926271Virement 100 Mouvements;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;1;Virement 100 Mouvements;1914;1732731985864;1732731987778;1
+271120241927431Virement 900 Mouvements;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;1;Virement 900 Mouvements;19940;1732732043629;1732732063569;1
+271120241929501Ouverture compte 2011;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;1;Ouverture compte 2011;2517;1732732188211;1732732190728;1
+271120241929571Ouverture compte 511;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;1;Ouverture compte 511;3169;1732732194813;1732732197982;1
+271120241932442Virement 1 mouvement;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;2;Virement 1 mouvement;156;1732732364494;1732732364650;1
+271120241933042Virement 100 Mouvements;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;2;Virement 100 Mouvements;1941;1732732382964;1732732384905;1
+271120241934212Virement 900 Mouvements;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;2;Virement 900 Mouvements;20807;1732732440924;1732732461731;1
+271120241936292Ouverture compte 2011;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;2;Ouverture compte 2011;2834;1732732587144;1732732589978;1
+271120241936372Ouverture compte 511;ISACOMPTA-CLIENT;25.01.056;N/A;iqs-client;27/11/2024 19:24:22;Consultation Grand Livre et Virements;30409;2;Ouverture compte 511;3159;1732732594146;1732732597305;1
